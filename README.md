@@ -121,4 +121,4 @@ NEXT STEPS
 FOR MORE INFORMATION
 </h2>
 
-For more information visit the [Jupyter Notebook](./notebook.ipynb), [Tableau Dashboard]() or [Presentation](./presentation.pdf)
+For more information visit the [Jupyter Notebook](./notebook.ipynb), [Tableau Dashboard](https://public.tableau.com/app/profile/andrew.nyakiba/viz/tableauproject_17701956125930/BlockbustervsCriticsChoice?publish=yes) or [Presentation](./presentation.pdf)
