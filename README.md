@@ -1,7 +1,7 @@
 <img src='./Images/Company_Logo.jpg' width='100%' align='center' />
 
 <h1 align='center'>
-GENERIC NAME LTD MOVIE ANALYSIS
+KAMPUNI LTD MOVIE ANALYSIS
 </h1>
 
 > **Authors**: Group 5
@@ -12,7 +12,7 @@ OVERVIEW
 
 <img src='./Images/Movie_Studio.jpg' width='100%' align='center' />
 
-* Generic Name LTD is looking to expand into the movie business
+* Kampuni LTD is looking to expand into the movie business
 * The data analysis division has conducted a study on the best practices this new movie division should follow.
 * We used data from reputable movie ranking websites to identify good practices that could give our studio an edge.
 * These practices, if implemented, could not only result in high returns but also critical acclaim at the box office.
